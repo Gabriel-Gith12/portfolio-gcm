@@ -1,7 +1,7 @@
 <h1 align="center">Meu Portfólio </h1>
 
 <div align="center">
-<img width='600px' src="./assets/projects/portfolio.png" width="35px"/>
+<img width='600px' src="./assets/projects/portfolioV2.png" width="35px"/>
 </div>
 
 ## 📝 Descrição 
